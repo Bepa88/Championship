@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChampionshipOfBox", "ChampionshipOfBox\ChampionshipOfBox.csproj", "{13828C50-7DED-4111-8FAE-2AEE54A0946E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13828C50-7DED-4111-8FAE-2AEE54A0946E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13828C50-7DED-4111-8FAE-2AEE54A0946E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13828C50-7DED-4111-8FAE-2AEE54A0946E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13828C50-7DED-4111-8FAE-2AEE54A0946E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D31D938-67C7-470A-9414-D854C8028F1C}
+	EndGlobalSection
+EndGlobal
